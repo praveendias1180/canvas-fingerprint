@@ -1,6 +1,6 @@
 # Demo
 
-https://github.com/praveendias1180/canvas-fingerprint
+https://praveendias1180.github.io/canvas-fingerprint/
 
 
 ![](fp.png)
